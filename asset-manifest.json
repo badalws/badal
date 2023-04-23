@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/badal/static/css/main.2784506f.css",
+    "main.js": "/badal/static/js/main.c2beda36.js",
+    "static/js/787.811bf484.chunk.js": "/badal/static/js/787.811bf484.chunk.js",
+    "index.html": "/badal/index.html",
+    "main.2784506f.css.map": "/badal/static/css/main.2784506f.css.map",
+    "main.c2beda36.js.map": "/badal/static/js/main.c2beda36.js.map",
+    "787.811bf484.chunk.js.map": "/badal/static/js/787.811bf484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.c2beda36.js"
+  ]
+}
